@@ -1,0 +1,6 @@
+
+prepare*.*
+*.zip
+intern/
+fakes/
+.ipynb_checkpoints/
